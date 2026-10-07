@@ -1,0 +1,16 @@
+# Packaged skills are release assets, not source
+*.skill
+*.zip
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
